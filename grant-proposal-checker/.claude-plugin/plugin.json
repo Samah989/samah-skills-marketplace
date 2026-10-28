@@ -1,0 +1,25 @@
+{
+  "name": "grant-proposal-checker",
+  "version": "1.0.0",
+  "description": "Compliance and completeness pass on a research grant proposal  -  verifies page limits, biosketch format, DMP presence, budget justification, required sections, formatting rules. Supports NSF, NIH, ERC, Horizon Europe, Wellcome, DOE, DOD.",
+  "author": {
+    "name": "Samah Alshrief",
+    "url": "https://github.com/Samah989"
+  },
+  "homepage": "https://github.com/Samah989/samah-skills-marketplace/tree/main/grant-proposal-checker",
+  "repository": "https://github.com/Samah989/samah-skills-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "grant-proposal",
+    "nsf",
+    "nih",
+    "erc",
+    "horizon-europe",
+    "wellcome",
+    "compliance-check",
+    "pappg",
+    "sf424",
+    "biosketch",
+    "research-administration"
+  ]
+}

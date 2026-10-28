@@ -1,0 +1,24 @@
+{
+  "name": "ipeds-explorer",
+  "version": "1.0.0",
+  "description": "Answer higher-education institutional-research questions using IPEDS via the Urban Institute Education Data Portal  -  peer comparisons, enrollment trends, financial ratios, graduation rates, faculty size, net price. Fast one-turn answers without touching a notebook.",
+  "author": {
+    "name": "Samah Alshrief",
+    "url": "https://github.com/Samah989"
+  },
+  "homepage": "https://github.com/Samah989/samah-skills-marketplace/tree/main/ipeds-explorer",
+  "repository": "https://github.com/Samah989/samah-skills-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "ipeds",
+    "institutional-research",
+    "higher-education",
+    "peer-comparison",
+    "carnegie-classification",
+    "enrollment",
+    "graduation-rate",
+    "net-price",
+    "sector-benchmarking",
+    "urban-institute"
+  ]
+}

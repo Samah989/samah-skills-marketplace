@@ -1,0 +1,26 @@
+{
+  "name": "data-management-plan",
+  "version": "1.0.0",
+  "description": "Generate a funder-compliant Data Management Plan (DMP)  -  supports NSF, NIH DMSP, Wellcome, ERC, Horizon Europe, MRC/UKRI, NSERC/SSHRC, ARC  -  with FAIR compliance narrative, repository selection, and cost estimation.",
+  "author": {
+    "name": "Samah Alshrief",
+    "url": "https://github.com/Samah989"
+  },
+  "homepage": "https://github.com/Samah989/samah-skills-marketplace/tree/main/data-management-plan",
+  "repository": "https://github.com/Samah989/samah-skills-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "dmp",
+    "data-management-plan",
+    "data-sharing-plan",
+    "fair-data",
+    "nsf-dmsp",
+    "nih-dms",
+    "wellcome",
+    "horizon-europe",
+    "erc",
+    "open-data",
+    "research-data-management",
+    "grants"
+  ]
+}

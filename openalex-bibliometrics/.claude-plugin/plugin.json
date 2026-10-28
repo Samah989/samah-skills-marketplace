@@ -1,0 +1,24 @@
+{
+  "name": "openalex-bibliometrics",
+  "version": "1.0.0",
+  "description": "Bibliometric and scientometric analysis via OpenAlex  -  free, open scholarly graph. Author profiles, institution profiles, citation analysis, co-authorship, funder tracking, OA-share, field trends. Free alternative to Scopus and Web of Science.",
+  "author": {
+    "name": "Samah Alshrief",
+    "url": "https://github.com/Samah989"
+  },
+  "homepage": "https://github.com/Samah989/samah-skills-marketplace/tree/main/openalex-bibliometrics",
+  "repository": "https://github.com/Samah989/samah-skills-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "openalex",
+    "bibliometrics",
+    "scientometrics",
+    "h-index",
+    "citation-analysis",
+    "orcid",
+    "ror",
+    "open-access",
+    "funder-tracking",
+    "author-metrics"
+  ]
+}

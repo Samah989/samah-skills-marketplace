@@ -1,0 +1,85 @@
+{
+  "name": "samah-skills",
+  "owner": {
+    "name": "Samah Alshrief",
+    "url": "https://github.com/Samah989"
+  },
+  "metadata": {
+    "description": "A personal marketplace of skills published by Samah Alshrief. Every plugin here is authored, maintained, and versioned by the marketplace owner.",
+    "version": "1.2.0"
+  },
+  "plugins": [
+    {
+      "name": "website-accessibility",
+      "source": "./website-accessibility",
+      "description": "Audit websites for accessibility barriers (WCAG 2.2, ARIA, color contrast, keyboard, screen readers) and produce a prioritized report with per-issue WCAG citations and specific fixes.",
+      "version": "1.0.0",
+      "author": { "name": "Samah Alshrief", "url": "https://github.com/Samah989" },
+      "category": "developer-tools",
+      "tags": ["accessibility", "a11y", "wcag", "aria", "audit", "compliance"]
+    },
+    {
+      "name": "systematic-literature-review",
+      "source": "./systematic-literature-review",
+      "description": "Guide a rigorous systematic or scoping review following PRISMA 2020  -  protocol, search-string design, deduplication, screening, data extraction, risk-of-bias, PRISMA flow diagram.",
+      "version": "1.0.0",
+      "author": { "name": "Samah Alshrief", "url": "https://github.com/Samah989" },
+      "category": "research-methods",
+      "tags": ["systematic-review", "prisma", "meta-analysis", "evidence-synthesis"]
+    },
+    {
+      "name": "data-management-plan",
+      "source": "./data-management-plan",
+      "description": "Generate a funder-compliant Data Management Plan (NSF, NIH, Wellcome, ERC, Horizon Europe, MRC, NSERC, ARC) with FAIR narrative, repository selection, and cost estimation.",
+      "version": "1.0.0",
+      "author": { "name": "Samah Alshrief", "url": "https://github.com/Samah989" },
+      "category": "research-methods",
+      "tags": ["dmp", "fair-data", "nsf", "nih", "grants", "research-data-management"]
+    },
+    {
+      "name": "reproducibility-audit",
+      "source": "./reproducibility-audit",
+      "description": "Audit a research repo for computational reproducibility  -  env pinning, seeds, data provenance, notebook hygiene, container hygiene, CI, README. Severity-ranked report with specific fixes.",
+      "version": "1.0.0",
+      "author": { "name": "Samah Alshrief", "url": "https://github.com/Samah989" },
+      "category": "research-methods",
+      "tags": ["reproducibility", "open-science", "renv", "uv", "docker", "joss"]
+    },
+    {
+      "name": "ipeds-explorer",
+      "source": "./ipeds-explorer",
+      "description": "Answer higher-ed IR questions using IPEDS via the Urban Institute Education Data Portal  -  peer comparisons, enrollment/finance trends, graduation rates, net price. Fast one-turn answers.",
+      "version": "1.0.0",
+      "author": { "name": "Samah Alshrief", "url": "https://github.com/Samah989" },
+      "category": "higher-education",
+      "tags": ["ipeds", "institutional-research", "higher-education", "peer-comparison", "carnegie"]
+    },
+    {
+      "name": "openalex-bibliometrics",
+      "source": "./openalex-bibliometrics",
+      "description": "Bibliometric analysis via OpenAlex  -  free open scholarly graph. Author profiles, institution profiles, citations, co-authorship, funders, OA share. Free alternative to Scopus/WoS.",
+      "version": "1.0.0",
+      "author": { "name": "Samah Alshrief", "url": "https://github.com/Samah989" },
+      "category": "research-methods",
+      "tags": ["openalex", "bibliometrics", "scientometrics", "h-index", "citations", "orcid", "ror"]
+    },
+    {
+      "name": "dashboard-storyteller",
+      "source": "./dashboard-storyteller",
+      "description": "Turn a chart, table, or dashboard tile into a plain-English narrative for an executive or board audience. Captions, executive paragraphs, three-bullet talking points, or full briefs.",
+      "version": "1.0.0",
+      "author": { "name": "Samah Alshrief", "url": "https://github.com/Samah989" },
+      "category": "communication",
+      "tags": ["dashboard", "narrative", "executive-summary", "kpi", "board-report"]
+    },
+    {
+      "name": "grant-proposal-checker",
+      "source": "./grant-proposal-checker",
+      "description": "Compliance and completeness pass on a research grant proposal (NSF, NIH, ERC, Horizon Europe, Wellcome, DOE, DOD)  -  page limits, biosketch format, DMP presence, budget justification, required sections.",
+      "version": "1.0.0",
+      "author": { "name": "Samah Alshrief", "url": "https://github.com/Samah989" },
+      "category": "research-administration",
+      "tags": ["grant-proposal", "nsf", "nih", "erc", "horizon-europe", "compliance", "pappg", "sf424"]
+    }
+  ]
+}

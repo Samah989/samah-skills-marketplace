@@ -1,0 +1,26 @@
+{
+  "name": "website-accessibility",
+  "version": "1.0.0",
+  "description": "Audit websites for accessibility barriers against WCAG 2.2 (AA and AAA), covering ARIA, color contrast, keyboard navigation, screen-reader compatibility, alt text, focus order, and semantic HTML. Produces a prioritized report with per-issue WCAG citations and specific fixes.",
+  "author": {
+    "name": "Samah Alshrief",
+    "url": "https://github.com/Samah989"
+  },
+  "homepage": "https://github.com/Samah989/samah-skills-marketplace/tree/main/website-accessibility",
+  "repository": "https://github.com/Samah989/samah-skills-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "accessibility",
+    "a11y",
+    "wcag",
+    "wcag-2.2",
+    "aria",
+    "screen-reader",
+    "color-contrast",
+    "keyboard-navigation",
+    "audit",
+    "compliance",
+    "section-508",
+    "ada"
+  ]
+}

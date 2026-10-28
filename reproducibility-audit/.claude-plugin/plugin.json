@@ -1,0 +1,27 @@
+{
+  "name": "reproducibility-audit",
+  "version": "1.0.0",
+  "description": "Audit a research repository for computational reproducibility  -  environment pinning, random seeds, data provenance, path hygiene, notebook cell-order integrity, container hygiene, CI, and README completeness. Produces a severity-ranked report with specific fixes.",
+  "author": {
+    "name": "Samah Alshrief",
+    "url": "https://github.com/Samah989"
+  },
+  "homepage": "https://github.com/Samah989/samah-skills-marketplace/tree/main/reproducibility-audit",
+  "repository": "https://github.com/Samah989/samah-skills-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "reproducibility",
+    "reproducible-research",
+    "renv",
+    "uv",
+    "poetry",
+    "conda",
+    "snakemake",
+    "nextflow",
+    "docker",
+    "apptainer",
+    "notebook-hygiene",
+    "open-science",
+    "joss"
+  ]
+}

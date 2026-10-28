@@ -1,0 +1,25 @@
+{
+  "name": "systematic-literature-review",
+  "version": "1.0.0",
+  "description": "Guide a rigorous systematic literature review or scoping review following PRISMA 2020, from protocol through search-string design, deduplication, screening, data extraction, risk-of-bias assessment, and reporting.",
+  "author": {
+    "name": "Samah Alshrief",
+    "url": "https://github.com/Samah989"
+  },
+  "homepage": "https://github.com/Samah989/samah-skills-marketplace/tree/main/systematic-literature-review",
+  "repository": "https://github.com/Samah989/samah-skills-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "systematic-review",
+    "scoping-review",
+    "prisma",
+    "prisma-2020",
+    "meta-analysis",
+    "literature-review",
+    "evidence-synthesis",
+    "pico",
+    "risk-of-bias",
+    "search-strategy",
+    "research-methods"
+  ]
+}

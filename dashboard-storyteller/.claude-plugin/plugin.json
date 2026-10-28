@@ -1,0 +1,22 @@
+{
+  "name": "dashboard-storyteller",
+  "version": "1.0.0",
+  "description": "Turn a chart, table, dashboard tile, or dataset into a plain-English narrative that surfaces the 'so what' for an executive or board audience. Captions, executive paragraphs, three-bullet talking points, or full briefs.",
+  "author": {
+    "name": "Samah Alshrief",
+    "url": "https://github.com/Samah989"
+  },
+  "homepage": "https://github.com/Samah989/samah-skills-marketplace/tree/main/dashboard-storyteller",
+  "repository": "https://github.com/Samah989/samah-skills-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "dashboard",
+    "narrative",
+    "executive-summary",
+    "data-storytelling",
+    "institutional-research",
+    "kpi",
+    "board-report",
+    "briefing"
+  ]
+}
